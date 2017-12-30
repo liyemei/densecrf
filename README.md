@@ -42,7 +42,7 @@ python inference.py  im1.png anno1.png out.png
 ![image](https://github.com/liyemei/densecrf/blob/master/examples/out1.png?raw=true)
 
 - Matlab 
-- 
+
 
 ---
  run the demo.m
