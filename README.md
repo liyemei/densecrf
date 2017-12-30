@@ -18,7 +18,7 @@ NIPS 2011
 - Download code 
 
 ```
-git clone [--template=<template_directory>]
+git clone https://github.com/liyemei/densecrf
 ```
 -  Renameing
 ```
